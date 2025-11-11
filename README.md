@@ -34,6 +34,9 @@ Train the model using noisy images as input and original images as target.
 Visualize and compare original, noisy, and denoised images.
 
 ### PROGRAM
+
+### Name : PRASHANTH K
+### REG NO : 212223230152
 ```
 # Define Autoencoder
 class DenoisingAutoencoder(nn.Module):
